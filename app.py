@@ -1,6 +1,4 @@
-def call():
-    print("sayandeep sarkar")
+a=10
+b=20
 
-
-
-call()
+print(a+b)
