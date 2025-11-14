@@ -1,6 +1,6 @@
-def greet():
+def call():
     print("sayandeep sarkar")
 
 
 
-greet()
+call()
